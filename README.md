@@ -16,6 +16,7 @@ Mi formación como Tecnólogo Médico me da algo que un data scientist sin histo
 
 ### [Análisis Longitudinal de Listas de Espera NO GES en Chile (2021–2025)](https://github.com/LucianoBalladares/Analisis-de-Listas-de-Espera-No-GES)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20635195.svg)](https://doi.org/10.5281/zenodo.20635195)
 [![CI](https://github.com/LucianoBalladares/Analisis-de-Listas-de-Espera-No-GES/actions/workflows/ci.yml/badge.svg)](https://github.com/LucianoBalladares/Analisis-de-Listas-de-Espera-No-GES/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12%2B-336791?style=flat&logo=postgresql)](https://www.postgresql.org/)
